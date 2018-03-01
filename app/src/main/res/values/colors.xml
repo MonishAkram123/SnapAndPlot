@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#263238</color>
+    <color name="colorPrimaryDark">#000a12</color>
+    <color name="colorAccent">#212121</color>
+    <color name="graphViewBackgroundColor">#484848</color>
+    <color name="buttonBackgroundColor">#50000a12</color>
+    <color name="formulaTextViewColor">#FF00b8d4</color>
+</resources>
